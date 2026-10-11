@@ -1,0 +1,19 @@
+{
+  "wheel_id": 362,
+  "structure": "umbrella",
+  "slug": "unfairdismissallawyersaustralia-com-104",
+  "project": "unfair-dismissal-lawyers-sydney-costs-fd87b3216d97124f53e702f30",
+  "parent_t1_ref": "unfairdismissallawyersaustralia-com-152",
+  "node_role": "feeder",
+  "money_target": "unfairdismissallawyersaustralia.com.au",
+  "primary_kw": "unfair dismissal lawyers sydney costs",
+  "intended_url": "http://unfair-dismissal-lawyers-sydney-costs-fd87b3216d97124f53e702f30.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "6a0d8543897dbd0b",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/unfair-dismissal-lawyers-sydney-db20549c79f80b8be8e194ce382192b/",
+      "anchor": "unfair dismissal lawyers sydney",
+      "rel": "follow"
+    }
+  ]
+}
